@@ -7,5 +7,5 @@ If you are have the same problem, let's create a repository like this and start 
 Then, see how you changed day by day.
 I want to be a red in codefores. Let's see that I can or can't.
 
-Thank you for read this.
+Thank you for reading this.
     Thao
