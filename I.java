@@ -33,6 +33,8 @@ public class I {
                     lstStr.add(str);
                     j++;
                     break;
+                } else if(B[j] < t1){
+                    j++;
                 } else {
                     break;
                 }
